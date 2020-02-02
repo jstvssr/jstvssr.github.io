@@ -15,6 +15,15 @@ news: false
 social: true
 ---
 
+For contact information, please see the [LIACS staff](https://www.universiteitleiden.nl/en/staffmembers/joost-visser) pages.
+
+Some research interests:
+
+* [Software Engineering for Machine Learning](https://se-ml.github.io/)
+* Software maintainability
+* Green software
+
+Before joining LIACS, I held several leadership positions at the Software Improvement Group, and I was part-time Professor at Radboud University.
+
 While these pages are under construction, please feel free to consult [my old website](https://www.cs.ru.nl/J.Visser/).
 
-For contact information, please see the [LIACS staff](https://www.universiteitleiden.nl/en/staffmembers/joost-visser) pages.
